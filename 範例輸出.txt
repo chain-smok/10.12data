@@ -1,0 +1,3 @@
+//infixtopost檔
+Enter the exp: (A+B*(C+D))
+ABCD+*+
